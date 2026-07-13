@@ -1,5 +1,4 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-let age = 34;
-console.log(age);
+console.log("Hello World!");
 //# sourceMappingURL=hello.js.map
